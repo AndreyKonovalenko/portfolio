@@ -1,4 +1,3 @@
-import React from 'react';
 import About from './views/About';
 import Contacts from './views/Contacts';
 import Work from './views/Work';
